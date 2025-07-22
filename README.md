@@ -16,3 +16,5 @@ DATABASE_NAME
 PASS
 
 npm run dev para el front
+# ENVS
+VITE_BASE_API_URL
