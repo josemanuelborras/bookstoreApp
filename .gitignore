@@ -1,5 +1,6 @@
 # Node modules
-node_modules/
+bookstore-front/node_modules/
+bookstore-back/node_modules/
 
 # Logs
 logs/
