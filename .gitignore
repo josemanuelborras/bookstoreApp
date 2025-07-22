@@ -25,8 +25,8 @@ coverage/
 .nyc_output/
 
 # dotenv environment variables file
-.env
-.env.*.local
+bookstore-front/.env
+bookstore-back/.env.*.local
 
 # Optional npm cache directory
 .npm
